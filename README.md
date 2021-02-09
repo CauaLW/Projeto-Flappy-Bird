@@ -10,24 +10,6 @@
   </p>
 </p>
 
-
-
-<details open="open">
-  <summary>Conteúdos</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">Sobre O Projeto</a>
-      <ul>
-        <li><a href="#built-with">Constrúido Com</a></li>
-      </ul>
-    </li>
-    <li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-
-
 ## Sobre O Projeto
 
 Um jogo estilo Flappy Bird, construído para portfólio e aprimoramento de habilidades.
